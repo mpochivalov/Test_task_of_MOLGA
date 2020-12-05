@@ -1,0 +1,13 @@
+C:\Projects\MOLGA_test\Test_task_of_MOLGA\Test_task_of_MOLGA\bin\Debug\Test_task_of_MOLGA.exe.config
+C:\Projects\MOLGA_test\Test_task_of_MOLGA\Test_task_of_MOLGA\bin\Debug\Test_task_of_MOLGA.exe
+C:\Projects\MOLGA_test\Test_task_of_MOLGA\Test_task_of_MOLGA\bin\Debug\Test_task_of_MOLGA.pdb
+C:\Projects\MOLGA_test\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.csproj.CoreCompileInputs.cache
+C:\Projects\MOLGA_test\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.exe
+C:\Projects\MOLGA_test\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.pdb
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\bin\Debug\Test_task_of_MOLGA.exe.config
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\bin\Debug\Test_task_of_MOLGA.exe
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\bin\Debug\Test_task_of_MOLGA.pdb
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.csprojAssemblyReference.cache
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.csproj.CoreCompileInputs.cache
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.exe
+C:\Projects\Test_task_of_MOLGA\Test_task_of_MOLGA\obj\Debug\Test_task_of_MOLGA.pdb

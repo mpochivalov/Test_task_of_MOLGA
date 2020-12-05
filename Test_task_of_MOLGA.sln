@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_task_of_MOLGA", "Test_task_of_MOLGA\Test_task_of_MOLGA.csproj", "{22221847-2223-457A-84B1-F8D82AA3BD8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22221847-2223-457A-84B1-F8D82AA3BD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22221847-2223-457A-84B1-F8D82AA3BD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22221847-2223-457A-84B1-F8D82AA3BD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22221847-2223-457A-84B1-F8D82AA3BD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A45AC85-521D-40E6-8848-0EF4F2F9B5F7}
+	EndGlobalSection
+EndGlobal
