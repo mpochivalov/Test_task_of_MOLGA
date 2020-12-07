@@ -43,15 +43,18 @@ namespace Test_task_of_MOLGA
 
     abstract class Car
     {
+        //метод, у которого есть своя реализация в сабклассе
         public abstract string Info();
     }
 
     class Mustang : Car
     {
+        //реализация метода, определенного в суперклассе
         public override string Info() { return "Это Mustang"; }
     }
     class Navigator : Car
     {
+        //реализация метода, определенного в суперклассе
         public override string Info() { return "Это Lincoln"; }
     }
 }
