@@ -42,20 +42,16 @@ namespace Test_task_of_MOLGA
     }
 
     abstract class Car
-    { }
+    {
+        public abstract string Info();
+    }
 
     class Mustang : Car
     {
-        public Mustang()
-        {
-            Console.WriteLine("Автомобиль Mustang вышел с конвеера");
-        }
+        public override string Info() { return "Это Mustang"; }
     }
     class Navigator : Car
     {
-        public Navigator()
-        {
-            Console.WriteLine("Автомобиль Navigator вышел с конвеера");
-        }
+        public override string Info() { return "Это Lincoln"; }
     }
 }
